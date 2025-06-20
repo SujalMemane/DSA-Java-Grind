@@ -1,6 +1,6 @@
-# 🧠 DSA Java FAANG Grind
+# 🧠 DSA Java Grind
 
-This repository contains my **Java-based DSA preparation** for cracking FAANG internships.  
+This repository contains my **Java-based DSA preparation** for cracking internships.  
 Goal: Complete core DSA topics with focused problem solving.
 
 ---
