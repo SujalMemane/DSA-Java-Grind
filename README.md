@@ -9,7 +9,7 @@ Goal: Complete core DSA topics with focused problem solving.
 
 | No. | Topic               | Easy | Medium | Hard | Total | Status      |
 |-----|---------------------|------|--------|------|-------|-------------|
-| 1   | Arrays              | 0    | 0      | 0    | 0     | 🔜 Pending  |
+| 1   | Arrays              | 10    | 1      | 1    | 12     | 🔜 Pending  |
 | 2   | Strings             | 0    | 0      | 0    | 0     | 🔜 Pending  |
 | 3   | Searching & Sorting | 0    | 0      | 0    | 0     | 🔜 Pending  |
 | 4   | Bit Manipulation    | 0    | 0      | 0    | 0     | 🔜 Pending  |
