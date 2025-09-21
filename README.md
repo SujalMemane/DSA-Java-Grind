@@ -9,23 +9,23 @@ Goal: Complete core DSA topics with focused problem solving.
 
 | No. | Topic               | Easy | Medium | Hard | Total | Status      |
 |-----|---------------------|------|--------|------|-------|-------------|
-| 1   | Arrays              | 22   | 6      | 2    | 30    | ✅ Good Progress |
-| 2   | Strings             | 10   | 2      | 0    | 12    | ✅ Good Progress |
-| 3   | Searching & Sorting | 14   | 3      | 1    | 18    | ✅ Good Progress |
-| 4   | Bit Manipulation    | 6    | 0      | 0    | 6     | ✅ Good Progress |
-| 5   | Recursion           | 0    | 0      | 0    | 0     | 🔜 Pending  |
-| 6   | Backtracking        | 0    | 0      | 0    | 0     | 🔜 Pending  |
-| 7   | Linked List         | 0    | 0      | 0    | 0     | 🔜 Pending  |
-| 8   | Stack               | 0    | 0      | 0    | 0     | 🔜 Pending  |
-| 9   | Queue               | 0    | 0      | 0    | 0     | 🔜 Pending  |
-| 10  | Sliding Window      | 2    | 0      | 0    | 2     | ✅ Started |
-| 11  | Two Pointers        | 8    | 2      | 0    | 10    | ✅ Good Progress |
-| 12  | Hashing             | 6    | 0      | 0    | 6     | ✅ Good Progress |
-| 13  | Trees (BT + BST)    | 0    | 0      | 0    | 0     | 🔜 Pending  |
-| 14  | Heaps               | 0    | 0      | 0    | 0     | 🔜 Pending  |
-| 15  | Graphs              | 0    | 0      | 0    | 0     | 🔜 Pending  |
-| 16  | Greedy              | 2    | 0      | 0    | 2     | ✅ Started |
-| 17  | Dynamic Programming | 0    | 0      | 0    | 0     | 🔜 Pending  |
+| 1   | Arrays              | 30   | 10     | 2    | 42    | ✅ Great Progress |
+| 2   | Strings             | 16   | 4      | 0    | 20    | ✅ Great Progress |
+| 3   | Searching & Sorting | 18   | 5      | 2    | 25    | ✅ Great Progress |
+| 4   | Bit Manipulation    | 8    | 1      | 0    | 9     | ✅ Good Progress |
+| 5   | Recursion           | 1    | 0      | 0    | 1     | ✅ Started  |
+| 6   | Backtracking        | 1    | 0      | 0    | 1     | ✅ Started  |
+| 7   | Linked List         | 4    | 2      | 0    | 6     | ✅ Started  |
+| 8   | Stack               | 1    | 0      | 0    | 1     | ✅ Started  |
+| 9   | Queue               | 1    | 0      | 0    | 1     | ✅ Started  |
+| 10  | Sliding Window      | 4    | 1      | 0    | 5     | ✅ Good Progress |
+| 11  | Two Pointers        | 12   | 3      | 0    | 15    | ✅ Great Progress |
+| 12  | Hashing             | 10   | 1      | 0    | 11    | ✅ Great Progress |
+| 13  | Trees (BT + BST)    | 1    | 0      | 0    | 1     | ✅ Started  |
+| 14  | Heaps               | 1    | 0      | 0    | 1     | ✅ Started  |
+| 15  | Graphs              | 2    | 0      | 0    | 2     | ✅ Started  |
+| 16  | Greedy              | 4    | 1      | 0    | 5     | ✅ Good Progress |
+| 17  | Dynamic Programming | 1    | 0      | 0    | 1     | ✅ Started  |
 | 18  | Tries               | 0    | 0      | 0    | 0     | 🔜 Pending  |
 | 19  | Segment Trees       | 0    | 0      | 0    | 0     | 🔜 Pending  |
 
